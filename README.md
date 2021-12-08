@@ -1,6 +1,6 @@
 # Lab_3
 Options for my program:
--V / --Value with value after
--L / --List with list after
--h / --help
--v / --version
+1. -V / --Value with value after
+2. -L / --List with list after
+3. -h / --help
+4. -v / --version
